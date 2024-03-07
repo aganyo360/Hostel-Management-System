@@ -39,15 +39,15 @@ CREATE TABLE `courses` (
 
 
 INSERT INTO `courses` (`id`, `course_code`, `course_sn`, `course_fn`, `posting_date`) VALUES
-(1, 'BTH123', 'B.Tech', 'Bachelor  Of Technology', '2020-09-23 00:45:13'),
-(2, 'BCOM18', 'B.Com', 'Bachelor Of Commerce ', '2020-09-23 00:45:13'),
-(3, 'BSC296', 'BSC', 'Bachelor  of Science', '2020-09-23 00:45:13'),
-(4, 'BCOA55', 'BCA', 'Bachelor Of Computer Application', '2020-09-23 00:45:13'),
-(5, 'MCA001', 'MCA', 'Master of Computer Application', '2020-09-23 00:47:13'),
-(6, 'MBA777', 'MBA', 'Master In Business Administration', '2020-09-23 00:54:13'),
-(7, 'BE069', 'BE', 'Bachelor of Engineering', '2020-09-23 00:59:13'),
-(8, 'BIT353', 'BIT', 'Bachelors In Information Technology', '2021-03-07 06:59:05'),
-(9, 'MIT005', 'MIT', 'Master of Information Technology', '2022-04-03 13:03:19');
+(1, 'BTH123', 'B.Tech', 'Bachelor  Of Technology', '2024-02-23 00:45:13'),
+(2, 'BCOM18', 'B.Com', 'Bachelor Of Commerce ', '2024-02-23 00:45:13'),
+(3, 'BSC296', 'BSC', 'Bachelor  of Science', '2024-02-23 00:45:13'),
+(4, 'BCOA55', 'BCA', 'Bachelor Of Computer Application', '2024-02-23 00:45:13'),
+(5, 'MCA001', 'MCA', 'Master of Computer Application', '2024-02-23 00:47:13'),
+(6, 'MBA777', 'MBA', 'Master In Business Administration', '2024-02-23 00:54:13'),
+(7, 'BE069', 'BE', 'Bachelor of Engineering', '2024-02-23 00:59:13'),
+(8, 'BIT353', 'BIT', 'Bachelors In Information Technology', '2024-02-07 06:59:05'),
+(9, 'MIT005', 'MIT', 'Master of Information Technology', '2024-02-03 13:03:19');
 
 -
 
