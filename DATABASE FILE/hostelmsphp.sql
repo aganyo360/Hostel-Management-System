@@ -49,7 +49,7 @@ INSERT INTO `courses` (`id`, `course_code`, `course_sn`, `course_fn`, `posting_d
 (8, 'BIT353', 'BIT', 'Bachelors In Information Technology', '2024-02-07 06:59:05'),
 (9, 'MIT005', 'MIT', 'Master of Information Technology', '2024-02-03 13:03:19');
 
--
+
 
 CREATE TABLE `registration` (
   `id` int(11) NOT NULL,
