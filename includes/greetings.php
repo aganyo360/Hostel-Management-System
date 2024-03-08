@@ -1,6 +1,6 @@
 <?php 
  
-    date_default_timezone_set('America/Chicago');
+    date_default_timezone_set('Africa/Nairobi');
     
     $welcome_string="Welcome"; 
     $numeric_date=date("G"); 
